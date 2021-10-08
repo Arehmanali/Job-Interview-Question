@@ -1,4 +1,4 @@
-# Job-Interview-Question
+# Job Interview Question
 ## Software Engineer Sample Questions
 **1) What are the important categories of software?**
 * System software
