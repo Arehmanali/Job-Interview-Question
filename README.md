@@ -62,9 +62,10 @@ The project manager is doing the project planning, monitoring the progress, comm
 
 **15) What is mean by software scope?**\
 Software scope is a well-defined boundary. It includes all kind of activities that are done to develop and deliver the software product.
-The software scope defines all functionalities and artifacts to be delivered as a part of the software.\ 
+The software scope defines all functionalities and artifacts to be delivered as a part of the software. 
 The scope also identifies what the product will do?\
-What is not the part of the project? What is project estimation?\
+What is not the part of the project?\
+What is project estimation?\
 This process is helpful to estimate various aspects of the software product. This estimation can be decided either consulting experts or by using pre-defined formulas.
 
 **16) How to find the size of a software product?**\
