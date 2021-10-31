@@ -210,3 +210,9 @@ We should declare a class as abstract in the following situations:
 
 When the class is inherited from an abstract class, but not all the abstract methods have been overridden.
 In the case when minimum one of the methods in the class is declared as an abstract.
+
+**54) Can You Explain What a Constructor Is?**\
+Potential employers may look for candidates who have specialized knowledge, such as when, how, and why to use a constructor. Make sure you include the following details when answering this question:
+
+An overview of constructors.
+The purpose of constructors.
